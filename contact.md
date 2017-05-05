@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [gary089123@yahoo.com.tw](mailto: gary089123@yahoo.com.tw)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+886-981565322](tel:+886-981565322)
 
 ---
 
