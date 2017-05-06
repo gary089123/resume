@@ -3,48 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <title>Title of the document</title>
-<link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/slate/bootstrap.min.css" rel="stylesheet" integrity="sha384-RpX8okQqCyUNG7PlOYNybyJXYTtGQH+7rIKiVvg1DLg6jahLEk47VvpUyS+E2/uJ" crossorigin="anonymous">
-<script src="https://d3js.org/d3.v4.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+<script src="https://raw.githubusercontent.com/davatron5000/Lettering.js/master/jquery.lettering.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script scr="https://raw.githubusercontent.com/jschr/textillate/master/jquery.textillate.js"></script>
 </head>
 
 <body>
-Content of the document...
-<script>
-d3.select('p').text('hello');
-  
-  
-  var data=[
-  {x:1, w:Math.floor(Math.random()*200)},
-  {x:2, w:Math.floor(Math.random()*200)},
-  {x:3, w:Math.floor(Math.random()*200)},
-  {x:4, w:Math.floor(Math.random()*200)},
-  {x:5, w:Math.floor(Math.random()*200)},
-];
+<h1 class="tlt">My Title</h1>
 
-var s = d3.select('body')
-          .append('svg')
-          .attr({
-            'width':300,
-            'height':300
-          });
-
-s.selectAll('rect')
- .data(data)
- .enter()
- .append('rect')
- .attr({
-  'fill':'#09c',
-  'width':function(d){
-    return d.w;
-  },
-  'height':30,
-  'x':0,
-  'y':function(d){
-    return (d.x-1) * 35;
-  }
- });
-  
-</script>
-</body>
-
+</body>  
 </html>
+
+<script>
+
+$(function () {
+	$('.tlt').textillate({ in: { effect: 'rollIn' } });
+})
+</script>
