@@ -31,7 +31,14 @@ var data = {
 var myRadarChart = new Chart(ctx, {
     type: 'radar',
     data: data,
-    options: options
+    options: {
+            scale: {
+                reverse: true,
+                ticks: {
+                    beginAtZero: true
+                }
+            }
+    }
 });
 
 
