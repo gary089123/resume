@@ -4,7 +4,7 @@ layout: default
 
 ## 關於我
 
-<img class="profile-picture" src="sherlock.jpg">
+<img  src="sherlock.jpg">
 
 我是一個對於資訊充滿熱誠的學生，對於資工課程外的學習也抱以主動的態度，大一時就甄
 選進入學校電算中心網管工讀。常常因為好奇心而不斷挖坑給自己進入，最近也在ＤＩＹ四
