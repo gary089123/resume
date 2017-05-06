@@ -13,7 +13,7 @@ var data = {
             pointBorderColor: "#fff",
             pointHoverBackgroundColor: "#fff",
             pointHoverBorderColor: "rgba(179,181,198,1)",
-            data: [ 60, 55, 85, 70, 65 , 85 ,70]
+            data: [ 60, 55, 85, 60, 55 , 85 ,70]
         },
         {
             label: "短期學習目標",
@@ -23,7 +23,7 @@ var data = {
             pointBorderColor: "#fff",
             pointHoverBackgroundColor: "#fff",
             pointHoverBorderColor: "rgba(255,99,132,1)",
-            data: [65, 70, 85, 70, 75, 90, 85]
+            data: [65, 80, 85, 65, 70, 90, 80]
         }
     ]
 };
