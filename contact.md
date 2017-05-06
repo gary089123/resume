@@ -17,6 +17,7 @@ is_contact: true
 * 英文能力 : 多益750分
 
 ---
+## 聯絡
 
 * Email : [gary089123@yahoo.com.tw](mailto: gary089123@yahoo.com.tw)
 
