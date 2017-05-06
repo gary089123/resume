@@ -1,4 +1,4 @@
-Java 具有小專案開發經驗     C/C++ 具有程式開發基礎
+Java 具有小專案開發經驗&nbsp;&nbsp;&nbsp;C/C++ 具有程式開發基礎
 Ruby 具有專案開發經驗       PHP 具有管理專案經驗
 Git 熟悉且專案上運用        Linux管理伺服器經案
 <canvas id="myChart" width="300" height="300"></canvas>
