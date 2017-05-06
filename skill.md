@@ -34,7 +34,8 @@ var myRadarChart = new Chart(ctx, {
     options: {
             scale: {
                 ticks: {
-                    beginAtZero: true
+                    beginAtZero: true,
+                    max: 100
                 }
             }
     }
