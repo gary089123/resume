@@ -1,5 +1,7 @@
-
+<canvas id="myChart" width="400" height="400"></canvas>
 <script>
+var ctx = document.getElementById("myChart");
+
 var data = {
     labels: ["Eating", "Drinking", "Sleeping", "Designing", "Coding", "Cycling", "Running"],
     datasets: [
