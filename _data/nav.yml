@@ -1,8 +1,10 @@
-- name: "Contact"
-  link: "contact"
+
 
 - name: "Resume"
   link: "resume.pdf"
-
-- name: "About"
+  
+- name: "簡介"
+  link: "contact"
+  
+- name: "關於我"
   link: "about"
