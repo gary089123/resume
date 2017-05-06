@@ -1,5 +1,4 @@
 
-## TEST
 <script>
 var data = {
     labels: ["Eating", "Drinking", "Sleeping", "Designing", "Coding", "Cycling", "Running"],
