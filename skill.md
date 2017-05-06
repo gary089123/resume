@@ -1,4 +1,4 @@
-Java 具有小專案開發經驗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C/C++ 具有程式開發基礎&nbsp;&nbsp;&nbsp;&nbsp;Ruby 具有專案開發經驗<br>Linux管理伺服器經驗
+Java 具有小專案開發經驗&nbsp;&nbsp;&nbsp;C/C++ 具有程式開發基礎&nbsp;&nbsp;&nbsp;Ruby 具有專案開發經驗&nbsp;&nbsp;&nbsp;Linux管理伺服器經驗
 <canvas id="myChart" width="300" height="300"></canvas>
 <script>
 var ctx = document.getElementById("myChart");
