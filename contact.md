@@ -2,7 +2,7 @@
 layout: default
 is_contact: true
 ---
-##簡介
+## 簡介
 
 * 學歷 : 中央大學資訊工程學系三年級
 * 工作經歷 : 
@@ -17,16 +17,6 @@ is_contact: true
 
 ---
 
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
 
 ## 社群
 
