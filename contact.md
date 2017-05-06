@@ -2,11 +2,13 @@
 layout: default
 is_contact: true
 ---
+##簡介
+
 * 學歷 : 中央大學資訊工程學系三年級
 * 工作經歷 : 
   * 中央大學電算中心網路與系統小組
   * 中央大學衛生保健組網管
-*
+* 興趣 : ＤＩＹ，攝影
 ---
 
 * Email : [gary089123@yahoo.com.tw](mailto: gary089123@yahoo.com.tw)
@@ -14,8 +16,7 @@ is_contact: true
 * Phone : [+886-981565322](tel:+886-981565322)
 
 ---
-* 興趣 : ＤＩＹ，攝影
-*
+
 
 ## Mailing Address
 
