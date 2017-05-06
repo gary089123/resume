@@ -1,9 +1,9 @@
-<canvas id="myChart" width="400" height="400"></canvas>
+<canvas id="myChart" width="300" height="300"></canvas>
 <script>
 var ctx = document.getElementById("myChart");
 
 var data = {
-    labels: ["Java", "C/C++", "Ruby", "PHP", "Web 前端", "git" ,"Linux系統"],
+    labels: ["Java", "C/C++", "Ruby", "PHP", "Web 前端", "Git" ,"Linux系統"],
     datasets: [
         {
             label: "目前自我評分",
