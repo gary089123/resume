@@ -9,6 +9,41 @@
 
 <body>
 Content of the document......
+<script src="https://d3js.org/d3.v4.min.js">
+  
+  
+  var data=[
+  {x:1, w:Math.floor(Math.random()*200)},
+  {x:2, w:Math.floor(Math.random()*200)},
+  {x:3, w:Math.floor(Math.random()*200)},
+  {x:4, w:Math.floor(Math.random()*200)},
+  {x:5, w:Math.floor(Math.random()*200)},
+];
+
+var s = d3.select('body')
+          .append('svg')
+          .attr({
+            'width':300,
+            'height':300
+          });
+
+s.selectAll('rect')
+ .data(data)
+ .enter()
+ .append('rect')
+ .attr({
+  'fill':'#09c',
+  'width':function(d){
+    return d.w;
+  },
+  'height':30,
+  'x':0,
+  'y':function(d){
+    return (d.x-1) * 35;
+  }
+ });
+  
+</script>
 </body>
 
 </html>
