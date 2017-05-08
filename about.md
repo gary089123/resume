@@ -20,7 +20,7 @@ layout: default
 sdf|經歷|內容
 ----------|---------------|---------------------------------
 <img src="ncucc.png" style="width:100px;">|電算中心網管|系統維護
-<img src="ncuhealh.jpg" style="width:100px;">|衛保組網管|維護網頁及各資訊設備
+<img src="ncuhealth.jpg" style="width:100px;">|衛保組網管|維護網頁及各資訊設備
 <img src="icpc.png" style="width:100px;">|ACM-ICPC|八等獎
 <img src="ncpc.gif" style="width:100px;">|NCPC|四等獎
 <img src="ncucc.png" style="width:100px;">|專題|以Rasperberry pi 實作 Wifi Access Point
