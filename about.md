@@ -19,7 +19,7 @@ layout: default
 
 sdf|經歷|內容
 ------------|---------------|---------------------------------
-<img src="sherlock.jpg" width="200px">|電算中心網管|系統維護
+<img src="sherlock.jpg" style="width:200px;">|電算中心網管|系統維護
 <img src="sherlock.jpg">|衛保組網管|維護網頁及各資訊設備
 <img src="sherlock.jpg">|ACM-ICPC|八等獎
 <img src="sherlock.jpg">|NCPC|四等獎
