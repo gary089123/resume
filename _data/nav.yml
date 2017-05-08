@@ -2,13 +2,12 @@
 
 - name: "ＰＤＦ檔下載"
   link: "resume.pdf"
-  
+
 - name: "技能點"
   link: "skill"
 
 - name: "關於我"
-  link: "about"
-  
+  link: "index"
+
 - name: "簡介"
   link: "contact"
-  
