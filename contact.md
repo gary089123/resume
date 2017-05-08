@@ -19,6 +19,7 @@ is_contact: true
   
   * 程式設計，在學校多出當任網管
   
+  
   * 攝影，<a href="https://www.flickr.com/photos/141030910@N02/">作品集</a>
   
   * 合唱，參加<a href="http://www.tpf.org.tw/tpyc/index.aspx">台北愛樂青年合唱團</a>
