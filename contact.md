@@ -19,7 +19,7 @@ is_contact: true
   
   * 中央大學衛生保健組網管
 
-  * 中央大學電算中心網路與系統小組
+  * 攝影，<a href="https://www.flickr.com/photos/141030910@N02/">作品集</a>
   
   * 中央大學衛生保健組網管
 
