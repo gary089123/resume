@@ -19,7 +19,7 @@ is_contact: true
   
   * 程式設計，在學校多出當任網管
   
-  * 合唱，參加<a href="http://www.tpf.org.tw/tpyc/index.aspx">台北愛樂青年合唱團</a>
+
   
 * 個性 : 喜歡不斷地挖坑給自己跳，當決定要做時就會一股腦地努力向前
 
