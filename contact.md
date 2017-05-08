@@ -21,7 +21,7 @@ is_contact: true
 
   * 攝影，<a href="https://www.flickr.com/photos/141030910@N02/">作品集</a>
   
-  * 中央大學衛生保健組網管
+  * 合唱，參加<a href="http://www.tpf.org.tw/tpyc/index.aspx">台北愛樂青年合唱團</a>
 
   
 * 個性 : 喜歡不斷地挖坑給自己跳，當決定要做時就會一股腦地努力向前
