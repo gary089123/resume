@@ -17,7 +17,7 @@ layout: default
 
 
 
-sdf|經歷|內容
+單位|經歷|內容
 ----------|---------------|---------------------------------
 <img src="ncucc.png" style="width:100px;">|電算中心網管|系統維護
 <img src="ncuhealth.jpg" style="width:100px;">|衛保組網管|維護網頁及各資訊設備
