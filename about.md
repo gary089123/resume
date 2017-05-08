@@ -13,7 +13,28 @@ layout: default
 
 
 ## 經歷
-單位|經歷|內容
+
+<table style="width:100%">
+  <tr>
+    <th>單位</th>
+    <th>經歷</th> 
+    <th>內容</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
+
+
+
+sdf|經歷|內容
 ------------|---------------|---------------------------------
 <img src="sherlock.jpg" width="200px">|電算中心網管|系統維護
 <img src="sherlock.jpg">|衛保組網管|維護網頁及各資訊設備
