@@ -9,7 +9,7 @@ layout: default
 軸飛行器，從機架飛控版(arduino)到遙控器(arduino)都自行土炮，看到這次ArkLab實習，
 讓我躍躍欲試，希望有機會做更深入學習
 
-<img scr="fly.jpg">
+<img src="fly.jpg" style="width:400px;">
 
 
 ## 經歷
