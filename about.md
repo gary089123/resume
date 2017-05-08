@@ -18,9 +18,10 @@ layout: default
 
 
 sdf|經歷|內容
-------------|---------------|---------------------------------
-<img src="sherlock.jpg" style="width:100px;">|電算中心網管|系統維護
-<img src="sherlock.jpg">|衛保組網管|維護網頁及各資訊設備
-<img src="sherlock.jpg">|ACM-ICPC|八等獎
-<img src="sherlock.jpg">|NCPC|四等獎
+----------|---------------|---------------------------------
+<img src="ncucc.png" style="width:100px;">|電算中心網管|系統維護
+<img src="ncuhealt.jpg">|衛保組網管|維護網頁及各資訊設備
+<img src="icpc.png">|ACM-ICPC|八等獎
+<img src="ncpc.gif">|NCPC|四等獎
+<img src="ncucc.png" style="width:100px;">|專題|以Rasperberry pi 實作 Wifi Access Point
 
