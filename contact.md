@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 ## 簡介
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.jpg">
 
 * 學歷 : 中央大學資訊工程學系三年級
 
