@@ -18,7 +18,8 @@ is_contact: true
   * 動手DIY，最近在做四軸 !!!!!
 
   
-  * 中央大學衛生保健組網管
+  * 程式設計，在學校多處當網管
+
 
   * 攝影，<a href="https://www.flickr.com/photos/141030910@N02/">作品集</a>
   
