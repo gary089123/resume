@@ -4,7 +4,7 @@ baseurl: "/resume"
 
 markdown: kramdown
 
-tracking_id: #
+tracking_id: UA-98864926-1
 
 sass:
     style: compressed
